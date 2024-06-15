@@ -1,0 +1,4 @@
+Hi, my name is vishal tambi and     now you are reading the result of the write file sync file module Hello this is first text file in the content folder. , Hello this is second text file in the content folder.
+Hello now you are reading the result of the write file sync file module Hello this is first text file in the content folder. , Hello this is second text file in the content folder.
+Hello now you are reading the result of the write file sync file module Hello this is first text file in the content folder. , Hello this is second text file in the content folder.
+This is the result : Hello this is first text file in the content folder., Hello this is second text file in the content folder.
