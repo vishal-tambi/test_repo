@@ -29,6 +29,10 @@
 
 // console.log('third');
 
+
+
+
+
 // third example of http server
 
 const http = require('http');
@@ -37,9 +41,6 @@ const server = http.createServer((req,res)=>{
     console.log("requret event");
     // res.end('Hello vishal how are you doing');
     res.end("yes this is a nice day");
-    if(req.url == '/about'){
-        res.end("this is out about seciton")
-    }
 })
 
 server.listen(5000,()=>{
